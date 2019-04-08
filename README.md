@@ -1,4 +1,2 @@
 # PositivelyPhD.github.io
-PositivelyPhD website
-
-(PositivelyPhD.github.io)
+[PositivelyPhD website] (https://positivelyphd.github.io/)
