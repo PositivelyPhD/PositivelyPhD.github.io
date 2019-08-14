@@ -12,7 +12,7 @@ html, body {
 }
 
 .name {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Futura', sans-serif;
   margin-bottom: 2px;
 }
 
@@ -26,7 +26,7 @@ html, body {
 }
 
 .left, .right {
-  background-color: lightblue;
+  background-color: pink;
   
   margin: 5px;
   max-width: 50%;
